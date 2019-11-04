@@ -10,7 +10,7 @@ close all;
 
 tic;
 
-% 参数设置
+% 参数设置(第二次提交)
 EbNoTotal = [0:2:30].';                 % Eb/N0
 frameLength = 1000;                    % 每个帧的符号个数
 packetNumber = 10;                     % 分组个数
